@@ -1,0 +1,1 @@
+1. We will create a server which gets request from client using Express which will be listen at home route. It will be a get request.
